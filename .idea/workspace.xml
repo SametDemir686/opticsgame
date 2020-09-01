@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3997d3d-f756-4dc5-8c0a-1fb4758dd943" name="Default Changelist" comment="" />
+    <list default="true" id="b3997d3d-f756-4dc5-8c0a-1fb4758dd943" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Changeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcaveMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvexLens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvexMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FreeMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JOptionPaneQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LightCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LightCombinerFM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LightSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LightSourceFM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mirrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObstacleFM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OpticStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OpticsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanarMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflactable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rotatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SphericalMirrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TargetFM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blue filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blue hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blue light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blue target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/combiner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/concave mirror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/convex lens icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/convex lens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/convex mirror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cyan filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cyan hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cyan light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cyan target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/filters icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/green filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/green hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/green light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/green target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/magenta filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/magenta hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/magenta light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/magenta target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mirrors icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/obstacle1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/obstacle1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/obstacle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/obstacle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/obstacles icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panel0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panel2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panelconvexlens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panelfilters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panelhowto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panelmirrors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/panelobstacles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/paneltargetandlightsource.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/planar mirror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/q2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/q3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/q4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/q5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/q6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/red filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/red hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/red light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/red target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/targetandlightsource icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/concave mirror icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/convex mirror icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/light source icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/planar mirror icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/unused icons/targets icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/yellow filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/yellow hit target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/yellow light source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/yellow target.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,12 +104,22 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1gv2QVSXGrvYigQQp7OsHHMHNNk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\demir.samet\IdeaProjects\optics-game" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\demir.samet\AppData\Roaming\Subversion</configuration>
@@ -29,7 +131,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598980729908</updated>
+      <workItem from="1598980733958" duration="1167000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1598980756496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598980756496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1598980794685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598980794685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598980810002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1598980810002" />
+    <state x="389" y="7" key="CommitChangelistDialog2" timestamp="1598980793809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598980793809" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598980797333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598980797333" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1598981878176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598981878176" />
   </component>
 </project>
